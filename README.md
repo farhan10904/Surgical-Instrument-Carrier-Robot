@@ -2,7 +2,7 @@
 
 **University Team Project — In Progress | 8 members | C/C++, Arduino**
 
-An autonomous robot designed to safely transport surgical instruments within hospital environments. Built to strict constraints: 300×300×400mm envelope, 2kg mass limit, and hospital sterility compliance. Final assembly: 2,041g.
+An autonomous robot designed to safely transport surgical instruments within hospital environments. Built to project constraints including a 300×300×400 mm envelope and a nominal 2 kg mass target with +5% acceptance tolerance (2,100 g maximum). Final assembly: 2,041 g, within the accepted mass limit.
 
 I am the sole software engineer on the team. All embedded firmware was written, structured, and version controlled by me. The mechanical design, electrical wiring, and CAD were handled by other team members.
 
@@ -130,11 +130,11 @@ Upload individual test sketches from their respective folders to validate each c
 | Constraint | Specification | Result |
 |---|---|---|
 | Envelope | 300×300×400mm | Met |
-| Mass limit | 2,000g | 2,041g — *exceeded by 41g* |
+| Mass | 2,000 g nominal; +5% tolerance (2,100 g maximum) | 2,041 g - PASS, 59 g below the permitted maximum |
 | Surface finish | Cleanable, sterile-compatible | Met |
 | Budget | £275 | £244 spent |
 
-> **Note on mass:** The 2,041g final assembly slightly exceeded the 2kg specification. This was identified during final integration and documented as a constraint trade-off by the mechanical team.
+> **Note on mass:** The final 2,041 g assembly was 41 g (2.05%) above the nominal 2 kg target, but the final specification permitted +5% tolerance. The maximum acceptable mass was 2,100 g, so the robot met the requirement with 59 g of margin.
 
 ---
 
