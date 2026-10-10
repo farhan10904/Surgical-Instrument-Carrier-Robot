@@ -149,7 +149,12 @@ The robot successfully completed line following and delivery sequences during un
 
 ## Author
 
-**Farhan Ali** — Software Engineer
-[GitHub](https://github.com/farhan10904) | [Portfolio](https://pacific-attention-6cd.notion.site/Farhan-Ali-Engineering-Portfolio-2c0495dbdc658028a0decf9447459ea6) | [LinkedIn](https://www.linkedin.com/in/farhan-ali-95047a245/)
+**Muhammed Farhan Ali**
 
-*Mechanical design and CAD completed by other team members.*
+MEng Mechanical Engineering - University of Leicester
+
+[Engineering Portfolio](https://farhan10904.github.io/engineering-portfolio/) | [GitHub](https://github.com/farhan10904) | [LinkedIn](https://www.linkedin.com/in/farhan-ali-95047a245/)
+
+## Acknowledgements
+
+AI tools were used for planning, debugging assistance, code review, and documentation editing. final validation were performed and reviewed by the author.
